@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/webpack-for-test-task/static/css/main.bfa24fef.css",
+    "main.js": "/webpack-for-test-task/static/js/main.b49f5009.js",
+    "static/css/960.a41391d8.chunk.css": "/webpack-for-test-task/static/css/960.a41391d8.chunk.css",
+    "static/js/960.2f01b976.chunk.js": "/webpack-for-test-task/static/js/960.2f01b976.chunk.js",
+    "static/css/185.8501bdd2.chunk.css": "/webpack-for-test-task/static/css/185.8501bdd2.chunk.css",
+    "static/js/185.e651639f.chunk.js": "/webpack-for-test-task/static/js/185.e651639f.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/webpack-for-test-task/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/webpack-for-test-task/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/webpack-for-test-task/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Alata-Regular.ttf": "/webpack-for-test-task/static/media/Alata-Regular.a90e0970a7aca7d36f95.ttf",
+    "index.html": "/webpack-for-test-task/index.html",
+    "main.bfa24fef.css.map": "/webpack-for-test-task/static/css/main.bfa24fef.css.map",
+    "main.b49f5009.js.map": "/webpack-for-test-task/static/js/main.b49f5009.js.map",
+    "960.a41391d8.chunk.css.map": "/webpack-for-test-task/static/css/960.a41391d8.chunk.css.map",
+    "960.2f01b976.chunk.js.map": "/webpack-for-test-task/static/js/960.2f01b976.chunk.js.map",
+    "185.8501bdd2.chunk.css.map": "/webpack-for-test-task/static/css/185.8501bdd2.chunk.css.map",
+    "185.e651639f.chunk.js.map": "/webpack-for-test-task/static/js/185.e651639f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa24fef.css",
+    "static/js/main.b49f5009.js"
+  ]
+}
